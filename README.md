@@ -1,6 +1,6 @@
 # Project : Alien-invasion
 
-A game made with pygames part of Python crash course book by Eric Matthes
+A game made with pygames part of Python crash course(edition 2nd) book by Eric Matthes
 
 ##User Interface
 
